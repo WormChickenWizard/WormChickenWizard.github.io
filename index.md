@@ -1,4 +1,4 @@
 ## Welcome to GitHub Pages
 
-[Multiplayer FPS](https://www.wormchickenwizard.github.io/Multiplayer-FPS/index.html)
+[Multiplayer FPS](http://htmlpreview.github.io/?https://github.com/WormChickenWizard/WormChickenWizard.github.io/blob/master/Multiplayer-FPS/index.html)
 
